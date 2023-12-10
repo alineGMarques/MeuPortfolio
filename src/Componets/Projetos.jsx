@@ -32,8 +32,8 @@ useEffect(()=>{
           </a>
           <div>
           <H2>Projeto Coffe</H2>
-          <h3>Loron coms enim dolore saepe incidunt non nemo sequuntur.</h3>
-          <p>html,Css</p>
+          <h3>Projeto Inicial com o tema café onde apliquei conhecimentos</h3>
+          <p>HTML,CSS</p>
         </div>
         </Figure>
        
@@ -45,8 +45,8 @@ useEffect(()=>{
           </a>
           <div>
           <H2>Projeto Simpsos</H2>
-          <h3>Loron coms enim dolore saepe incidunt non nemo sequuntur.</h3>
-          <p>html,Css</p>
+          <h3>Esse projeto é ultilizado o cursor personalizado, tema Simpsons</h3>
+          <p>HTML,CSS</p>
         </div>
         </Figure>
         
@@ -58,7 +58,7 @@ useEffect(()=>{
           </a>
           <div>
           <H2>Projento Witcher</H2>
-          <h3>Loron coms enim dolore saepe incidunt non nemo sequuntur.</h3>
+          <h3> Projeto  coms enim dolore saepe incidunt non nemo sequuntur.</h3>
           <p>html,Css</p>
         </div>
         </Figure>

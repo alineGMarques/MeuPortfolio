@@ -1,7 +1,9 @@
 import React from "react"
+import { Link } from 'react-router-dom'
 import Aline from "../assets/Aline.jpeg"
 import logolinkedin from "../assets/linkedin.png"
 import logoGT from "../assets/github.png"
+import Curriculo from "../assets/CV.jpg"
 import {Img,Nomes,Figure,H1,H2,Button,Divisao,Section,Linkedin,GitHub} from "../estilo/InicioStyle"
 
 
@@ -33,10 +35,8 @@ function Inicio() {
     
     </Divisao>
     <Divisao>
-
-    <Button>Baixar Currículo</Button>
-   
-
+    <Link to="./curriculum"><Button>Ver Currículo</Button></Link>
+    
       </Divisao>
 
     </Section>

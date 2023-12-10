@@ -48,15 +48,32 @@ background-color:#cb9ca1;
 font-weight:500;
 border-radius:100px;
 padding:12px;
+font-weight: bold;
+
+&:hover{
+    font-size:15px;
+    background:#ffffff;
+}
 
 `
 export const Linkedin= styled.img`
 width:40px;
 
+&:hover{
+    transform: scale(1.2) 
+  
+}
+
 `
 export const GitHub= styled.img`
 width:40px;
+&:hover{
+    transform: scale(1.2) 
+  
+}
 `
+
+
 
 
 

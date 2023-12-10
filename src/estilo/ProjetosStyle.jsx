@@ -5,22 +5,59 @@ width:30vw;
 justify-content:center;
 
 
+&:hover{
+    border:5px solid green;
+  
+}
+
+
+
 `
 export const ProjetoSimpsons= styled.img`
 width:30vw;
 
+&:hover{
+    border:5px solid green;
+  
+}
+
+
 `
 export const ProjetoWitcher= styled.img`
 width:30vw;
+
+&:hover{
+    border:5px solid green;
+  
+}
+
 `
 export const ProjetoDisney= styled.img`
 width:30vw;
+
+&:hover{
+    border:5px solid green;
+  
+}
+
 `
 export const ProjetoInverno= styled.img`
 width:30vw;
+
+&:hover{
+    border:5px solid green;
+  
+}
+
 `
 export const ProjetoDogs= styled.img`
 width:30vw;
+
+&:hover{
+    border:5px solid green;
+  
+}
+
 `
 
 export const Section= styled.section`

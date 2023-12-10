@@ -36,8 +36,6 @@ width:50vw;
 border-radius:0px 30px 0px 30px;
 padding:10px 30px;
 
-
-
 `
 export const LogoUm= styled.img`
 margin:6px;

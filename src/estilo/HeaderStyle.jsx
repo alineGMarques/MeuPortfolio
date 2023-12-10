@@ -20,6 +20,7 @@ width:100vw;
 justify-content:space-around;
 
 
+
 @media(max-width:800px){
 width:80vw;
 }
@@ -32,8 +33,12 @@ justify-content:space-around;
 align-items:center;
 border:2px solid #000000;
 width:200px;
+&:hover{
+    font-size:20px;
+    background:#ffffff;
+}
 
-`
+`;
 export const Ul=styled.ul`
 display:flex;
 width :800px;
