@@ -58,8 +58,8 @@ useEffect(()=>{
           </a>
           <div>
           <H2>Projento Witcher</H2>
-          <h3> Projeto  coms enim dolore saepe incidunt non nemo sequuntur.</h3>
-          <p>html,Css</p>
+          <h3> Projeto Witcher com houver com o uso de display flex para centralizar imagem .</h3>
+          <p>HTML,CSS</p>
         </div>
         </Figure>
         
@@ -71,8 +71,8 @@ useEffect(()=>{
           </a>
           <div>
           <H2>Projeto Disney</H2>
-          <h3>Loron coms enim dolore saepe incidunt non nemo sequuntur.</h3>
-          <p>html,Css</p>
+          <h3>Projeto Disney uso de display flex,houver e cursor personalizado. </h3>
+          <p>HTML,Css</p>
         </div>
         </Figure>
        
@@ -85,8 +85,8 @@ useEffect(()=>{
           </a>
           <div>
           <H2>Projeto Inverno</H2>
-          <h3>Loron coms enim dolore saepe incidunt non nemo sequuntur.</h3>
-          <p>html,Css</p>
+          <h3>Projeto Inverno foi utilizado houver e a  propriedade display flex  .</h3>
+          <p>HTML,CSS</p>
         </div>
         </Figure>
       
@@ -98,8 +98,8 @@ useEffect(()=>{
           </a>
           <div>
           <H2>Projeto Pets</H2>
-          <h3>Loron coms enim dolore saepe incidunt non nemo sequuntur.</h3>
-          <p>html,Css</p>
+          <h3>Projeto Pets feito com o usa da responsividade e semântica.</h3>
+          <p>HTML,CSS</p>
         </div>
         </Figure>
       
