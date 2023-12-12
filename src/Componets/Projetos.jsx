@@ -80,12 +80,12 @@ useEffect(()=>{
       </section>
       <section>
       <Figure>
-          <a href="https://effulgent-strudel-99d775.netlify.app////"target="_blank">
+          <a href="https://desafio-3-mauve.vercel.app/"target="_blank">
               <ProjetoInverno src= {Inverno}  alt="Projeto Inverno" />
           </a>
           <div>
           <H2>Projeto Inverno</H2>
-          <h3>Projeto Inverno foi utilizado houver e a  propriedade display flex  .</h3>
+          <h3>Projeto Inverno com uso houver e a  propriedade display flex  .</h3>
           <p>HTML,CSS</p>
         </div>
         </Figure>
@@ -93,7 +93,7 @@ useEffect(()=>{
       </section>
       <section>
       <Figure>
-          <a href="https://lustrous-ganache-c63886.netlify.app/////"target="_blank">
+          <a href="https://projetofinal-seven.vercel.app/"target="_blank">
               <ProjetoDogs src= {Dogs}  alt="Projeto Doguinhos" />
           </a>
           <div>
